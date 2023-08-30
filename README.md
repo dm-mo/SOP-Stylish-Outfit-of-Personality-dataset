@@ -5,6 +5,8 @@ fashion personality learning for personalised recommendation
 
 SOP contains 161,014 and 151,911 user-outfit mapping pairs for training and testing, respectively. 
 
+#data_train_testing includes the train and test pos-neg ouser-outfit pairs, where the amounts of each partions are as the following:
+
 ![alt text](https://github.com/dm-mo/SOP-Stylish-Outfit-of-Personality-dataset/blob/main/sop_data.png)
 
 The user-outfit pairs are represented with a user ID and outfit ID, which does not directly involve any user private information.
