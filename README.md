@@ -1,7 +1,7 @@
 # SOP-Stylish-Outfit-of-Personality-dataset
 fashion personality learning for personalised recommendation
-![alt text](https://github.com/dm-mo/SOP-Stylish-Outfit-of-Personality-dataset/concerpt.png?raw=true)
-![alt text](https://github.com/dm-mo/SOP-Stylish-Outfit-of-Personality-dataset/sop_data.png?raw=true)
+![alt text](https://github.com/dm-mo/SOP-Stylish-Outfit-of-Personality-dataset/blob/main/concerpt.png?raw=true)
+![alt text](https://github.com/dm-mo/SOP-Stylish-Outfit-of-Personality-dataset/blob/main/sop_data.png?raw=true)
 
 SOP contains 161,014 and 151,911 user-outfit mapping pairs for training and testing, respectively. 
 
